@@ -5,7 +5,7 @@ date: "2025-08-24T03:05:07.322Z"
 coverImage: ""
 author:
     name: Brandon Campbell-Kearns
-    picture: ""
+    picture: "/assets/author/me.webp"
 ogImage:
     url: ""
 
