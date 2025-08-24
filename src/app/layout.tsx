@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: `Brandon.is`,
-  description: `What's Brandon about?`,
+  description: `Brandon Campbell-Kearns' space on the internet.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
